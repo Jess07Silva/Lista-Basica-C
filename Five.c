@@ -11,6 +11,5 @@ int main()
     scanf ("%f", &nkm);
     float nms = nkm/3.6;
     printf ("A velocidade em M\\S é : %.1f", nms);
-    
-    
+    return 0;
 }
