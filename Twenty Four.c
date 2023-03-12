@@ -20,5 +20,6 @@ int main()
     else {
         printf ("Informe um numero positivo!");
     }
+     return 0;
 }
 
