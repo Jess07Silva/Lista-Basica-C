@@ -23,6 +23,5 @@ int main()
     /*Calcundo a media  e imprimindo : */
     
     printf ("A media do aluno é : %.2f", (n1+n2+n3+n4)/4);
-    
-    
+    return 0;
 }
