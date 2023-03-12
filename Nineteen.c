@@ -16,4 +16,5 @@ int main()
     }
     
     printf ("A soma total foi %d", soma);
+     return 0;
 }
