@@ -15,5 +15,6 @@ int main()
         N = N +2;
         printf("O %d numero natural impar do numero digitado é : %d \n", contador, N);
     }
+     return 0;
 }
 
