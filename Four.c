@@ -10,6 +10,5 @@ int main()
     scanf ("%f", &nc);
     float nf = nc * 1.8+32;
     printf ("A temperatura em Fahrenheit é : %.1f", nf);
-    
-    
+    return 0;
 }
