@@ -36,4 +36,5 @@ int main()
      if (media > 5) {
         printf ("Aluno teve a media %.2f e está APROVADO!", media);
     }
+     return 0;
 }
