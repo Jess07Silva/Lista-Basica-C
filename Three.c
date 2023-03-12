@@ -10,5 +10,5 @@ int main()
     printf ("O antecessor desse numero é : %d \n", --numero);
     numero ++;
     printf ("O sucessor desse numero é : %d \n", ++numero);
-    
+     return 0;
 }
