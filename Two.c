@@ -16,4 +16,5 @@ int main()
     scanf ("%d", &n3);
     
     printf ("A soma dos numero resulta em = %d", n1 + n2 + n3);
+     return 0;
 }
