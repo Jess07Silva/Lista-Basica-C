@@ -16,6 +16,5 @@ int main()
     /*Calcundo e imprimindo : */
     
     printf ("Esse valor em dolar é : %.2f", real/dolar);
-    
-    
+     return 0;
 }
