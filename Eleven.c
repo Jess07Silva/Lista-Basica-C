@@ -32,4 +32,5 @@ int main()
     else if (num == 0 ) {
         printf("O numero digitado é zero");
     }
+     return 0;
 }
