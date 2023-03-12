@@ -6,4 +6,5 @@ int main()
 {
     int numero = 1;
     printf ("O numero é : %d", numero);
+     return 0;
 }
