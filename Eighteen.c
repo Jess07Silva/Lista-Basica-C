@@ -31,4 +31,6 @@ int main()
     }while (contador<= 100);
     
     printf ("Fim do do-while");
+    
+     return 0;
 }
