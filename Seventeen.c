@@ -32,4 +32,5 @@ int main()
     else if (consumo > 12){
         printf ("O consumo foi %.1f km\\l \n Carro super economico!", consumo);
     }
+     return 0;
 }
