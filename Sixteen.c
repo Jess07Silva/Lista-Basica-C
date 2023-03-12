@@ -27,4 +27,5 @@ int main()
     else {
         printf ("Infelizmente ainda não é possivel a aposentadoria!");
     }
+     return 0;
 }
