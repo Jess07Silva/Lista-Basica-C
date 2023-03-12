@@ -19,4 +19,5 @@ int main()
     }
     media = soma/10;
     printf ("A media dos valores é : %d", media);
+     return 0;
 }
