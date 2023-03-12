@@ -29,4 +29,5 @@ int main()
         printf("O numero digitado é zero");
         return 0;
     }
+     return 0;
 }
