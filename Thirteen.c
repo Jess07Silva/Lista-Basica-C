@@ -25,4 +25,5 @@ int main()
     else if (sexo == 'M') {
         printf("O peso ideal é : %.2f", 72.7 * h - 58);
     }
+     return 0;
 }
