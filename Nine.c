@@ -14,7 +14,5 @@ int main()
     printf ("O primeiro ganhador receberá %.3f mil reais \n", 0.46*valor);
     printf ("O segundo ganhador receberá %.3f mil reais \n", 0.32*valor);
     printf ("O terceiro ganhador receberá %.3f mil reais", 0.22*valor);
-    
-    
-    
+    return 0;
 }
