@@ -32,6 +32,8 @@ int main()
     }
     else if (pergunta == 'N'){
         soma = soma;
+        
+         return 0;
     }
     
     printf("Mora perto da vítima? S-SIM OU N-NÃO ");
