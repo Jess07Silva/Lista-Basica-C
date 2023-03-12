@@ -25,4 +25,5 @@ int main()
     else{
         printf("A nota informada não é valida!");
     }
+     return 0;
 }
